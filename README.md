@@ -6,10 +6,11 @@ to insert values in the database just type this command.
 
 ```sql
 "INSERT INTO Producttb (product_name, product_price, product_image)
-        VALUES ('Apple MacBook Pro',1799,'./upload/product1.png'),
-                        ('Sony E7 Headphones',147,'./upload/product2.jpg'),
-                        ('Sony Xperia Z4',459,'./upload/product3.jpg'),
-                        ('Samsung Galaxy A50',278,'./upload/product4.jpg')";
+        VALUES ('Apple MacBook Pro',124999,'./upload/macbook.jpg'),
+                        ('Asus Vivobook',47000,'./upload/product2.jpg'),
+                        ('Hp Pavillion',48999,'./upload/hp.jpg'),
+                        ('Lenovo Legion Pro',87000,'./upload/lenovo.jpg')";
+```
 ```
 
 Ones you insert these values just execute your application.
